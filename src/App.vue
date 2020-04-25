@@ -4,7 +4,9 @@
 			<router-view/>
 		</Layout>
 		<div>1</div>
-		<div>2</div>
+		<div>dev2</div>
+		<div>dev22</div>
+		<div>dev33</div>
 	</div>
 </template>
 
