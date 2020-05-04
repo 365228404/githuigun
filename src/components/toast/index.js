@@ -12,6 +12,13 @@ import ToastComponent from './Toast'
 
 const Toast = {};
 
+
+
+
+
+
+
+
 Toast.install = (Vue) => {
     // 第一步：使用基础 Vue 构造器，创建一个“子类”
     const ToastConstructor = Vue.extend(ToastComponent);
