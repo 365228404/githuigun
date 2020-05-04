@@ -2,6 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <slot>111111111</slot>
+    <slot>222222222</slot>
   </div>
 </template>
 
