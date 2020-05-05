@@ -4,6 +4,7 @@
             <span v-if="type === 'success'">成功</span>
             {{message}}
         </div>
+        <div>dev2里有同事提交过代码</div>
     </transition>
 </template>
 
