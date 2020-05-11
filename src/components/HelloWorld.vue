@@ -10,6 +10,7 @@ export default {
     name: 'HelloWorld',
     props: {
         msg: String,
+
         mswg: {
           type:'String',
           default: ''
@@ -25,6 +26,9 @@ h3 {
 }
 ul {
   list-style-type: none;
+
+
+  
   padding: 0;
 }
 li {
