@@ -2,6 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <slot>111111111</slot>
+    <slot>666666</slot>
   </div>
 </template>
 
@@ -10,9 +11,12 @@ export default {
     name: 'HelloWorld',
     props: {
         msg: String,
-
         mswg: {
           type:'String',
+
+
+
+
           default: ''
         }
     }
