@@ -3,6 +3,7 @@
 		<Layout>
 			<router-view/>
 		</Layout>
+		<div>1</div>
 	</div>
 </template>
 
